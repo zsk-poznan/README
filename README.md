@@ -1,2 +1,5 @@
 # README
-Information about our organization
+
+ZSK developers
+
+To join write me an email patryk.niedzwiedzinski@uczen.zsk.poznan.pl
