@@ -20,6 +20,6 @@ Our js packages are deployed to npm organization `@zsk-poznan`. This organizatio
 
 If you want your project to be deployed to NPM follow this instructions.
 
-1. If you don't have one, create account on npmjs.com
+1. If you don't have one, create account on [npmjs.com](https://npmjs.com)
 2. Write about it to the NPM organization administrator, pass info such as: your npm username, github repo link and package name.
-3. 
+3. The administrator will then create your repository and you should get access to it on npm.
