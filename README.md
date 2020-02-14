@@ -1,8 +1,8 @@
 # README
 
-ZSK developers
+The aim of this organization is to have a single place to store software written by our students. Thanks to that we would reuse and maintain these projects in the future, instead of reinventing the wheel.
 
-To join write me an email patryk.niedzwiedzinski@uczen.zsk.poznan.pl
+If you have a project that you think might be beneficial to our student's community, write an email to the organization administrator: patryk.niedzwiedzinski@uczen.zsk.poznan.pl
 
 ## Github Apps
 
