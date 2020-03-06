@@ -4,6 +4,26 @@ The aim of this organization is to have a single place to store software written
 
 If you have a project that you think might be beneficial to our student's community, write an email to the organization administrator: patryk.niedzwiedzinski@uczen.zsk.poznan.pl
 
+## Projects
+
+### Zastępstwa
+
+Software for interactive touchscreen that is placed in a teacher room. Thanks to this teachers can check their lessons. This project uses web technologies such as React and Django. Check it out [here](https://github.com/zsk-poznan/zastepstwa)
+
+### Szczęśliwy numerek
+
+Web scraper that gets the lucky number from the UONET electronic grade book. We scrape it every day at 6am (5am UTC) and share for other students via a json-like API.
+
+* API: https://github.com/zsk-poznan/szczesliwy-numerek-backend
+* Display template: https://github.com/zsk-poznan/szczesliwy-numerek
+
+### Plany
+
+WIP Web app for displaying the lesson timetable. It also does some magic :tada: reversing timetable per classroom and per teacher.
+
+* Front: https://github.com/zsk-poznan/plany
+* Backend: https://github.com/zsk-poznan/plany-backend
+
 ## Github Apps
 
 - [WIP](https://github.com/apps/wip)
