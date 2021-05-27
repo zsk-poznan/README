@@ -30,7 +30,7 @@ WIP Web app for displaying the lesson timetable. It also does some magic :tada: 
 
 ## Docker Hub
 
-For questions related with https://hub.docker.com/u/zskpoznan contact with patryk.niedzwiedzinski@uczen.zsk.poznan.pl
+For questions related with https://hub.docker.com/u/zskpoznan contact with kacper.latuszewski@uczen.zsk.poznan.pl or patryk.niedzwiedzinski@uczen.zsk.poznan.pl
 
 ## NPM Organization
 
