@@ -2,7 +2,7 @@
 
 The aim of this organization is to have a single place to store software written by our students. Thanks to that we would reuse and maintain these projects in the future, instead of reinventing the wheel.
 
-If you have a project that you think might be beneficial to our student's community, write an email to the organization administrator: patryk.niedzwiedzinski@uczen.zsk.poznan.pl
+If you have a project that you think might be beneficial to our student's community, write an email to the organization administrator: kacper.latuszewski@uczen.zsk.poznan.pl
 
 ## Projects
 
@@ -30,8 +30,7 @@ WIP Web app for displaying the lesson timetable. It also does some magic :tada: 
 
 ## Docker Hub
 
-For questions related with https://hub.docker.com/u/zskpoznan contact with kacper.latuszewski@uczen.zsk.poznan.pl or patryk.niedzwiedzinski@uczen.zsk.poznan.pl
-
+For questions related with https://hub.docker.com/u/zskpoznan contact with kacper.latuszewski@uczen.zsk.poznan.pl
 ## NPM Organization
 
 Our js packages are deployed to npm organization `@zsk-poznan`. This organization is managed by Adam Siekierski, adam.siekierski@uczen.zsk.poznan.pl
